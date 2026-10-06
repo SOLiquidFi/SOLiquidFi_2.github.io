@@ -2855,12 +2855,10 @@ input, select, textarea {
 
 				#header .logo .symbol img {
 					display: block;
-					width: 3em;
-					height: 3em;
+					width: 2em;
+					height: 2em;
+					
 				}
-				#header .logo .title {
-					font-size: 1.5em
-
 		#header nav {
 			position: fixed;
 			right: 2em;
